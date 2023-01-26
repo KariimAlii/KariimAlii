@@ -14,6 +14,9 @@ I've been developing fullstack web applications for a year. I'm a professional A
 <a href="https://www.github.com/KariimAlii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KariimAlii?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=KariimAlii.KariimAlii)
+
+
 ### Skills
 
 
