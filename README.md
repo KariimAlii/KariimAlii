@@ -8,8 +8,8 @@ I've been developing fullstack web applications for a year. I'm a professional A
 
 * 🌍  I'm based in Alexandria,Egypt
 * ✉️  You can contact me at [kariimalii96@gmail.com](mailto:kariimalii96@gmail.com)
-* 🚀  I'm currently working on [Fullstack E-commerce Web Application](http://coolrestaurant.netlify.app/)
-* 🧠  I'm learning React.js
+* 🚀  I'm currently working on [Fullstack Social Media Web Application](https://github.com/KariimAlii/Social-Media-Application)
+* 🧠  I'm learning Angular
 
 <a href="https://www.github.com/KariimAlii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KariimAlii?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
